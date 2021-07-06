@@ -1,0 +1,7 @@
+Use the following settings in MySQL for the Project Demo
+
+Username: "Testplayer"
+Password: "12345"
+Database: "mmogame"
+
+localhost
